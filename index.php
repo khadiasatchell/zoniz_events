@@ -11,8 +11,8 @@ echo '<h2> Zoniz Events </h2>';
 echo '<h2>We Make Your Dream Come true</h4>';
 ?>
 <picture>
- <source srcset="..." type="images\decor.jpg">
-  <img src="..." class="img-fluid img-thumbnail" alt="...">
+ <source srcset="..." type="image/svg+xml">
+  <img src="<?php echo "images\decor.jpgg"?>" class="rounded-circles" style="with: 50%; height: 50% " alt="...">
 </picture>
 <?php 
 echo '<p>Welcome to Zoniz Events Limited Jamaica

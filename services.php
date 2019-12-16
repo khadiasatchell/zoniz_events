@@ -5,10 +5,7 @@
     require_once 'db/conn.php'; 
 
 ?>
-<picture>
- <source srcset="..." type="images\happyy couple.jpg">
-  <img src="..." class="img-fluid img-thumbnail" alt="...">
-</picture>
+
 <?php
 echo '<h2>Wedding Package</h2>';
 
