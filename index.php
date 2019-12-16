@@ -10,10 +10,10 @@
 echo '<h2> Zoniz Events </h2>';
 echo '<h2>We Make Your Dream Come true</h4>';
 ?>
-
-<img src="<?php echo empty("images/jus wed"); ?>
-" class="rounded-circles" style="with: 50%; height: 50% "/>
-
+<picture>
+ <source srcset="..." type="images\decor.jpg">
+  <img src="..." class="img-fluid img-thumbnail" alt="...">
+</picture>
 <?php 
 echo '<p>Welcome to Zoniz Events Limited Jamaica
 Weddings are Splendid, Classy and Chic Affair and that’s where Zoniz Events Jamaica comes in. 
